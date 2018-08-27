@@ -30,7 +30,8 @@ _testmain.go
 .idea/
 .idea/workspace.xml
 **/.idea/workspace.xml
-
+.const_iota/
+**/.con.go
 # mac hidden files
 .DS_Store
 
@@ -49,4 +50,4 @@ builds/**/images/*
 # security / ssl
 *.pem
 *.xxjson
-!/const_iota/
+
